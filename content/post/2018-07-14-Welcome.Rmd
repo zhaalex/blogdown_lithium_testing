@@ -1,0 +1,44 @@
+---
+title: "Zhang.me"
+author: "Alex Zhang"
+date: 2018-06-14T21:13:14-05:00
+categories: ["R"]
+tags: ["About Me", "Life"]
+output: html_document
+image: ./duck_cover.jpg
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# Welcome
+
+This is my blog!  Keep reading if you're interested in duck pics, jazz, or my life in general.
+
+<img src = "/img/duck_test.jpg" style = "width:75%" text-align="auto" >
+
+My pet ducks Aflac and Dexter above
+
+#A Quick Intro
+- Junior @ the University of Michigan
+- Computer Science and Jazz Studies
+- Army ROTC
+
+I've raised ducks since sophomore year in high school and that's how my interest in photography began!  Career interests include leveraging technology to prevent crime and for the environmental good.  
+
+#Couple of Miscellaneous Pictures
+
+<img src = "/img/IMG_7619.jpg" style = "width:75%" text-align="auto" >
+
+Walking home from the library in Ann Arbor (Spring 2018)
+
+<img src = "/img/IMG_9147.jpg" style = "width:50%" text-align="auto" >
+
+A goose I found on North Campus.  Quite tame! (Spring 2018)
+
+<img src = "/img/IMG_1071.jpg" style = "width:75%" text-align="center" >
+
+Some views of Cape Town from the top of Table Mountain (Summer 2018)
+
+This is just the start!  Will be looking to add a lot of features to this site in the future.
