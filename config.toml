@@ -1,4 +1,4 @@
-baseurl = "https://compassionate-visvesvaraya-235654.netlify.com/"
+baseurl = "https://compassionate-visvesvaraya-235654.netlify.com"
 languageCode = "en-us"
 title = "A Hugo website"
 theme = "hugo-lithium"
